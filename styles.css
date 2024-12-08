@@ -1,0 +1,33 @@
+h1 {
+    color: #cd853f;
+    background-color: rgb(28, 28, 67);
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+h3 {
+    color: blue;
+    background-color: rgb(219, 216, 149);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+.lasagna-pic,
+.turkey-pic,
+.bread-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bread-ing,
+.las-ing,
+.turkey-ing {
+    text-align: center;
+    font-size: 18px;
+    
+}
